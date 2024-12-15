@@ -90,6 +90,7 @@ Size: 14,776 rows
 
 ### 1. Fetch all the paintings which are not displayed in any museums
 
+```sql
 SELECT name AS painting_name, museum_id 
 FROM work
 WHERE museum_id = 0;
