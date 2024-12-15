@@ -95,7 +95,7 @@ SELECT name AS painting_name, museum_id
 FROM work
 WHERE museum_id = 0;
 
-### 2) Count the number of paintings that have an asking price higher than their regular price
+### 2. Count the number of paintings that have an asking price higher than their regular price
 
 ```sql
 SELECT COUNT(*) AS count_of_paintings
