@@ -2,7 +2,7 @@
 # Famous Paintings SQL Queries
 
 This project contains a set of SQL queries for analyzing a database of famous paintings. Below are the details about the tables used in the analysis and the corresponding SQL queries.
-The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/mexwell/famous-paintings)
+The dataset was taken from [Kaggle.](https://www.kaggle.com/datasets/mexwell/famous-paintings)
 
 ## SQL Queries
 
